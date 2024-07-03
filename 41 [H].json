@@ -1,0 +1,624 @@
+{
+  "Name": "41 [H]",
+  "AllSteps": [
+    {
+      "Remark": "START",
+      "TargetPos": {
+        "X": -1.084,
+        "Y": 3.9499354,
+        "Z": 304.552
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 1,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_Wait, Trust",
+        "TargetPoint": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "TimeInSec": 1.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "老一",
+      "TargetPos": {
+        "X": -0.06639222,
+        "Y": 0.012736678,
+        "Z": 113.28247
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 5,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_AgainstBoss, Trust",
+        "BossAreas": [
+          {
+            "Remark": "",
+            "AreaShapeType": 1,
+            "AreaShape": {
+              "$type": "AEAssist.Avoid.RectShape, AEAssist",
+              "First": {
+                "X": -17.769781,
+                "Y": 0.0,
+                "Z": 133.7722
+              },
+              "Second": {
+                "X": -17.79381,
+                "Y": 0.0,
+                "Z": 98.23848
+              },
+              "Third": {
+                "X": 17.644121,
+                "Y": 0.0,
+                "Z": 98.091095
+              },
+              "Fourth": {
+                "X": 17.748962,
+                "Y": 0.12478697,
+                "Z": 133.81262
+              },
+              "Origin": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "Name": null
+            }
+          }
+        ],
+        "WaitTimeInSec": 10.0,
+        "BossIndex": 0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "躲避莫名其妙出现的3个冰元精",
+      "TargetPos": {
+        "X": -0.93688095,
+        "Y": 0.019991994,
+        "Z": -267.11905
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "老二",
+      "TargetPos": {
+        "X": 57.307674,
+        "Y": 4.0000324,
+        "Z": -80.118034
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 5,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_AgainstBoss, Trust",
+        "BossAreas": [
+          {
+            "Remark": "",
+            "AreaShapeType": 1,
+            "AreaShape": {
+              "$type": "AEAssist.Avoid.RectShape, AEAssist",
+              "First": {
+                "X": 30.50957,
+                "Y": 4.0000324,
+                "Z": -69.51339
+              },
+              "Second": {
+                "X": 30.507494,
+                "Y": 4.0000324,
+                "Z": -90.49568
+              },
+              "Third": {
+                "X": 57.486435,
+                "Y": 4.0000324,
+                "Z": -90.5
+              },
+              "Fourth": {
+                "X": 57.49317,
+                "Y": 4.0000324,
+                "Z": -69.50425
+              },
+              "Origin": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "Name": null
+            }
+          }
+        ],
+        "WaitTimeInSec": 10.0,
+        "BossIndex": 1
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -0.046026945,
+        "Y": 0.16401243,
+        "Z": -224.54147
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 3,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_CutScene, Trust"
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "老三",
+      "TargetPos": {
+        "X": -0.51948714,
+        "Y": 0.040409565,
+        "Z": -246.20232
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 5,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_AgainstBoss, Trust",
+        "BossAreas": [
+          {
+            "Remark": "",
+            "AreaShapeType": 1,
+            "AreaShape": {
+              "$type": "AEAssist.Avoid.RectShape, AEAssist",
+              "First": {
+                "X": 21.652727,
+                "Y": 0.0042310953,
+                "Z": -269.6601
+              },
+              "Second": {
+                "X": 21.654799,
+                "Y": 0.0,
+                "Z": -226.34535
+              },
+              "Third": {
+                "X": -21.654291,
+                "Y": 0.0,
+                "Z": -226.34576
+              },
+              "Fourth": {
+                "X": -21.485773,
+                "Y": 0.0,
+                "Z": -269.5264
+              },
+              "Origin": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "Name": null
+            }
+          }
+        ],
+        "WaitTimeInSec": 10.0,
+        "BossIndex": 2
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    }
+  ],
+  "EntryType": 1,
+  "DutyId": 208,
+  "TrustVersion": 0,
+  "Index": 0,
+  "BossTriggerLines": [
+    {
+      "Remark": "老一",
+      "Root": {
+        "DisplayName": "Start",
+        "Childs": [
+          {
+            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeLoop, AEAssist",
+            "DisplayName": "循环 [99]次",
+            "Times": 99,
+            "Childs": [
+              {
+                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeClearWaitNode, AEAssist",
+                "DisplayName": "清理等待条件",
+                "GUID": "0bf685dc-ecdf-415a-81b0-407144a9aec3",
+                "Important": false,
+                "Color": {
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 0.4,
+                  "W": 1.0
+                },
+                "Id": 3,
+                "Enable": true,
+                "Remark": "每次循环开始 都要清理之前添加的监听 防止旧状态产生影响"
+              },
+              {
+                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeParallel, AEAssist",
+                "DisplayName": "并行选择",
+                "AnyReturn": true,
+                "Childs": [
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 903,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 5,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.ResolverExDataNearBoss, Trust",
+                          "ExDistance": 0.1,
+                          "Angle": 180,
+                          "StopACR": true,
+                          "RotationType": 0
+                        },
+                        "Remark": "",
+                        "DelayInSec": 0.0,
+                        "TimeInSec": 3.0
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "2e93d2d4-c87c-4b86-aad6-b4a425eabdad",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 5,
+                    "Enable": true,
+                    "Remark": "重击"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 902,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": true
+                        },
+                        "Remark": "",
+                        "DelayInSec": 0.0,
+                        "TimeInSec": 3.0
+                      }
+                    ],
+                    "JobsLimit": 2,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "190fa6e6-d567-44d6-a53e-cc94aba9b2fb",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 6,
+                    "Enable": true,
+                    "Remark": "火焰吐息"
+                  }
+                ],
+                "GUID": "165c8602-8b49-41bb-be09-b5c277fa825c",
+                "Important": true,
+                "Color": {
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 0.4,
+                  "W": 1.0
+                },
+                "Id": 4,
+                "Enable": true,
+                "Remark": "[并行选择]下的子节点同时执行,触发添加技能监听.任意一个监听被触发后，本次循环结束"
+              }
+            ],
+            "GUID": "d8124077-10e6-4dda-8a8f-1451409e852a",
+            "Important": false,
+            "Color": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 0.4,
+              "W": 1.0
+            },
+            "Id": 2,
+            "Enable": true,
+            "Remark": "循环处理（因为一般副本boss的技能都是循环的）"
+          }
+        ],
+        "GUID": "09357c90-9cf8-4664-abd5-a2515518ba76",
+        "Important": false,
+        "Color": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.4,
+          "W": 1.0
+        },
+        "Id": 1,
+        "Enable": true,
+        "Remark": ""
+      }
+    },
+    {
+      "Remark": "老二",
+      "Root": {
+        "DisplayName": "Start",
+        "Childs": [
+          {
+            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeLoop, AEAssist",
+            "DisplayName": "循环 [99]次",
+            "Times": 99,
+            "Childs": [
+              {
+                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeClearWaitNode, AEAssist",
+                "DisplayName": "清理等待条件",
+                "GUID": "36bbddc4-9fb6-421e-a061-baebfc2c4ed4",
+                "Important": false,
+                "Color": {
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 0.4,
+                  "W": 1.0
+                },
+                "Id": 3,
+                "Enable": true,
+                "Remark": "每次循环开始 都要清理之前添加的监听 防止旧状态产生影响"
+              },
+              {
+                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeParallel, AEAssist",
+                "DisplayName": "并行选择",
+                "AnyReturn": true,
+                "Childs": [
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 28730,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": true
+                        },
+                        "Remark": "",
+                        "DelayInSec": 0.0,
+                        "TimeInSec": 30.0
+                      },
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": false
+                        },
+                        "Remark": "",
+                        "DelayInSec": 0.0,
+                        "TimeInSec": 0.1
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "cdc30a6b-651e-4a00-b012-a56622afdf14",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 5,
+                    "Enable": true,
+                    "Remark": "台风"
+                  }
+                ],
+                "GUID": "cd621bfc-27d0-452f-8693-9979af79d30f",
+                "Important": true,
+                "Color": {
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 0.4,
+                  "W": 1.0
+                },
+                "Id": 4,
+                "Enable": true,
+                "Remark": "[并行选择]下的子节点同时执行,触发添加技能监听.任意一个监听被触发后，本次循环结束"
+              }
+            ],
+            "GUID": "b2093bc7-2291-4504-906a-99dc9d9508c7",
+            "Important": false,
+            "Color": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 0.4,
+              "W": 1.0
+            },
+            "Id": 2,
+            "Enable": true,
+            "Remark": "循环处理（因为一般副本boss的技能都是循环的）"
+          }
+        ],
+        "GUID": "9788a445-833e-41b0-b313-10232a02a26f",
+        "Important": false,
+        "Color": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.4,
+          "W": 1.0
+        },
+        "Id": 1,
+        "Enable": true,
+        "Remark": ""
+      }
+    },
+    {
+      "Remark": "老三",
+      "Root": {
+        "DisplayName": "Start",
+        "Childs": [
+          {
+            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeLoop, AEAssist",
+            "DisplayName": "循环 [99]次",
+            "Times": 99,
+            "Childs": [
+              {
+                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeClearWaitNode, AEAssist",
+                "DisplayName": "清理等待条件",
+                "GUID": "2f6dfb5e-3398-48fd-b148-db4cc3374dc3",
+                "Important": false,
+                "Color": {
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 0.4,
+                  "W": 1.0
+                },
+                "Id": 3,
+                "Enable": true,
+                "Remark": "每次循环开始 都要清理之前添加的监听 防止旧状态产生影响"
+              },
+              {
+                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeParallel, AEAssist",
+                "DisplayName": "并行选择",
+                "AnyReturn": true,
+                "Childs": [
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 1022,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": true
+                        },
+                        "Remark": "",
+                        "DelayInSec": 0.0,
+                        "TimeInSec": 0.7
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "e7c9e595-32bd-4450-8916-670459b4912a",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 5,
+                    "Enable": true,
+                    "Remark": "寒霜吐息"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 1026,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": true
+                        },
+                        "Remark": "",
+                        "DelayInSec": 0.0,
+                        "TimeInSec": 6.0
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "922aeede-402e-477c-b6a7-1dd46272f496",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 6,
+                    "Enable": true,
+                    "Remark": "低温俯冲"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 1025,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": true
+                        },
+                        "Remark": "",
+                        "DelayInSec": 0.0,
+                        "TimeInSec": 1.0
+                      }
+                    ],
+                    "JobsLimit": 2,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "bcc0cf80-bbf7-4c9f-bd21-4f0f22d2dbc8",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 7,
+                    "Enable": true,
+                    "Remark": "白霜环绕"
+                  }
+                ],
+                "GUID": "8ddb768e-3750-4f34-8056-f9c4c8d2beef",
+                "Important": true,
+                "Color": {
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 0.4,
+                  "W": 1.0
+                },
+                "Id": 4,
+                "Enable": true,
+                "Remark": "[并行选择]下的子节点同时执行,触发添加技能监听.任意一个监听被触发后，本次循环结束"
+              }
+            ],
+            "GUID": "37110a10-1c83-468c-b70c-a998d516e85f",
+            "Important": false,
+            "Color": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 0.4,
+              "W": 1.0
+            },
+            "Id": 2,
+            "Enable": true,
+            "Remark": "循环处理（因为一般副本boss的技能都是循环的）"
+          }
+        ],
+        "GUID": "73f1d265-089e-4353-afde-a669054132a4",
+        "Important": false,
+        "Color": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.4,
+          "W": 1.0
+        },
+        "Id": 1,
+        "Enable": true,
+        "Remark": ""
+      }
+    }
+  ],
+  "MonsterSpellNeedAvoidList": [
+    {
+      "SpellId": 0,
+      "Remark": ""
+    }
+  ],
+  "Remark": "",
+  "TerritoryTypeId": 1042
+}
