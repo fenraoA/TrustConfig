@@ -1,0 +1,1385 @@
+{
+  "Name": "59 [T／D／H] 学识宝库迦巴勒幻想图书馆",
+  "AllSteps": [
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -366.69257,
+        "Y": 0.0,
+        "Z": -0.07016367
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -347.16678,
+        "Y": 0.0,
+        "Z": -0.12558421
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -307.7427,
+        "Y": 0.0,
+        "Z": 0.029433941
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -292.38358,
+        "Y": -3.2531035,
+        "Z": 0.1478112
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -278.36176,
+        "Y": -5.999999,
+        "Z": 0.8596024
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -262.39426,
+        "Y": -6.0,
+        "Z": -7.1524634
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 1,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_Wait, Trust",
+        "TargetPoint": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "TimeInSec": 1.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -231.20027,
+        "Y": 0.0,
+        "Z": -38.475334
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -222.54005,
+        "Y": 2.7132065,
+        "Z": -46.96516
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -214.31123,
+        "Y": 6.036886,
+        "Z": -55.36125
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 4.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -197.8323,
+        "Y": 5.999998,
+        "Z": -58.52108
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 1,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_Wait, Trust",
+        "TargetPoint": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "TimeInSec": 1.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -166.72878,
+        "Y": 12.0,
+        "Z": -27.263073
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -158.67952,
+        "Y": 10.148957,
+        "Z": -19.54724
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 1,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_Wait, Trust",
+        "TargetPoint": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "TimeInSec": 1.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -151.2443,
+        "Y": 6.946233,
+        "Z": -11.885584
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 1,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_Wait, Trust",
+        "TargetPoint": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "TimeInSec": 2.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -146.08116,
+        "Y": 5.999858,
+        "Z": -6.122251
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 4.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -95.74183,
+        "Y": 0.0,
+        "Z": 0.2411711
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -84.72108,
+        "Y": 0.0,
+        "Z": 0.23379138
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -78.61293,
+        "Y": 0.0,
+        "Z": 0.7500338
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -23.450666,
+        "Y": 0.0,
+        "Z": -0.09176631
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": -15.21284,
+        "Y": 0.0,
+        "Z": -0.1547919
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 5,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_AgainstBoss, Trust",
+        "BossAreas": [
+          {
+            "Remark": "",
+            "AreaShapeType": 1,
+            "AreaShape": {
+              "$type": "AEAssist.Avoid.RectShape, AEAssist",
+              "First": {
+                "X": -18.848904,
+                "Y": 0.0,
+                "Z": 9.058578
+              },
+              "Second": {
+                "X": -18.663326,
+                "Y": 0.0,
+                "Z": -8.431807
+              },
+              "Third": {
+                "X": 18.989382,
+                "Y": 0.0,
+                "Z": -8.854077
+              },
+              "Fourth": {
+                "X": 19.152575,
+                "Y": 0.0,
+                "Z": 8.866254
+              },
+              "Origin": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              },
+              "Name": null
+            }
+          }
+        ],
+        "WaitTimeInSec": 10.0,
+        "BossIndex": 0
+      },
+      "ReverseDir": true,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 76.091255,
+        "Y": -4.0,
+        "Z": -0.23799574
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 95.544914,
+        "Y": -8.0,
+        "Z": -0.32121003
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 101.03733,
+        "Y": -8.0,
+        "Z": 8.424101
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 101.74038,
+        "Y": -8.0,
+        "Z": 34.69581
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 5.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 83.560974,
+        "Y": -8.0,
+        "Z": 36.526493
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 77.17419,
+        "Y": -8.0,
+        "Z": 59.9709
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 76.79681,
+        "Y": -8.0,
+        "Z": 72.579094
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 94.58554,
+        "Y": -9.0,
+        "Z": 71.58233
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 126.550385,
+        "Y": -8.0,
+        "Z": 66.57223
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 126.473236,
+        "Y": -8.0,
+        "Z": 83.20159
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 130.66202,
+        "Y": -8.0,
+        "Z": 96.2333
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 150.07478,
+        "Y": -9.0,
+        "Z": 96.201546
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 5.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 178.24167,
+        "Y": -8.0,
+        "Z": 96.2627
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 178.1115,
+        "Y": -8.0,
+        "Z": 88.208694
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 1,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_Wait, Trust",
+        "TargetPoint": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "TimeInSec": 1.5
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 177.99237,
+        "Y": -8.0,
+        "Z": 80.26273
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 1,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_Wait, Trust",
+        "TargetPoint": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "TimeInSec": 1.5
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 177.7964,
+        "Y": -8.000001,
+        "Z": 56.74289
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 177.81747,
+        "Y": -8.0,
+        "Z": 46.0773
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 5,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_AgainstBoss, Trust",
+        "BossAreas": [
+          {
+            "Remark": "",
+            "AreaShapeType": 0,
+            "AreaShape": {
+              "$type": "AEAssist.Avoid.CircleShape, AEAssist",
+              "Radius": 23.0,
+              "Origin": {
+                "X": 177.75278,
+                "Y": -7.4346294,
+                "Z": 27.655157
+              },
+              "Name": null
+            }
+          }
+        ],
+        "WaitTimeInSec": 10.0,
+        "BossIndex": 0
+      },
+      "ReverseDir": false,
+      "ExDistance": -1.5
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 176.66335,
+        "Y": -13.014066,
+        "Z": -51.182487
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 174.1629,
+        "Y": -16.0,
+        "Z": -66.18682
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 190.77106,
+        "Y": -18.201813,
+        "Z": -65.85343
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 235.60477,
+        "Y": -24.0,
+        "Z": -90.01271
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 250.82266,
+        "Y": -24.0,
+        "Z": -90.0763
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 297.7412,
+        "Y": -24.0,
+        "Z": -75.59564
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 297.5337,
+        "Y": -24.000004,
+        "Z": -66.19781
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 286.84808,
+        "Y": -24.0,
+        "Z": -30.394016
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 4.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 228.26534,
+        "Y": -24.0,
+        "Z": -40.18377
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 242.22906,
+        "Y": -29.101393,
+        "Z": -41.126213
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 270.16168,
+        "Y": -40.0,
+        "Z": -46.209633
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 2,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_BattleWithMonster, Trust",
+        "WaitTimeInSec": 3.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 349.84393,
+        "Y": -39.0,
+        "Z": -59.731144
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 6,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_WaitForNpc, Trust",
+        "TimeOut": 15.0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    },
+    {
+      "Remark": "",
+      "TargetPos": {
+        "X": 360.844,
+        "Y": -39.0,
+        "Z": -59.731144
+      },
+      "IgnoreBattleState": false,
+      "ArriveActionType": 5,
+      "ArriveActionData": {
+        "$type": "Trust.DungeonController.Dungeon.ArriveStepAction_AgainstBoss, Trust",
+        "BossAreas": [
+          {
+            "Remark": "",
+            "AreaShapeType": 0,
+            "AreaShape": {
+              "$type": "AEAssist.Avoid.CircleShape, AEAssist",
+              "Radius": 23.0,
+              "Origin": {
+                "X": 377.62726,
+                "Y": -39.0,
+                "Z": -59.7733
+              },
+              "Name": null
+            }
+          }
+        ],
+        "WaitTimeInSec": 10.0,
+        "BossIndex": 0
+      },
+      "ReverseDir": false,
+      "ExDistance": 0.0
+    }
+  ],
+  "EntryType": 1,
+  "DutyId": 218,
+  "TrustVersion": 0,
+  "Index": 218,
+  "BossTriggerLines": [
+    {
+      "Remark": "BOSS",
+      "Root": {
+        "DisplayName": "Start",
+        "Childs": [
+          {
+            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeLoop, AEAssist",
+            "DisplayName": "循环 [99]次",
+            "Times": 99,
+            "Childs": [
+              {
+                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeClearWaitNode, AEAssist",
+                "DisplayName": "清理等待条件",
+                "GUID": "9ccc1ddc-1c04-4eab-aa36-9a20112c051f",
+                "Important": false,
+                "Color": {
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 0.4,
+                  "W": 1.0
+                },
+                "Id": 3,
+                "Enable": true,
+                "Remark": "每次循环开始 都要清理之前添加的监听 防止旧状态产生影响"
+              },
+              {
+                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeParallel, AEAssist",
+                "DisplayName": "并行选择",
+                "AnyReturn": true,
+                "Childs": [
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 4818,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": false
+                        },
+                        "Remark": "",
+                        "DelayInSec": 6.0,
+                        "TimeInSec": 6.5
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "aa7d67c4-4d70-48d4-a922-8c08797f98b9",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 5,
+                    "Enable": true,
+                    "Remark": "揭露1"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 3518,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": false
+                        },
+                        "Remark": "",
+                        "DelayInSec": 6.0,
+                        "TimeInSec": 6.5
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "0e1eb2a4-bd76-4a66-8562-04a3678ebff7",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 6,
+                    "Enable": true,
+                    "Remark": "揭露2"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 3519,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": false
+                        },
+                        "Remark": "",
+                        "DelayInSec": 10.0,
+                        "TimeInSec": 4.0
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "5acf6c2b-1fb8-4473-8c84-5f1c60c3a95b",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 7,
+                    "Enable": false,
+                    "Remark": "跳读"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 3520,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": false
+                        },
+                        "Remark": "",
+                        "DelayInSec": 0.0,
+                        "TimeInSec": 3.5
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "5429584f-b4fe-4084-aa46-93d49fe5a670",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 8,
+                    "Enable": true,
+                    "Remark": "液化1"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 4165,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": false
+                        },
+                        "Remark": "",
+                        "DelayInSec": 0.0,
+                        "TimeInSec": 3.0
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "b072c473-260d-42f8-aa59-22f0821d28f8",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 9,
+                    "Enable": true,
+                    "Remark": "尾部碎击"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 3524,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 6,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.ResolverTP2FixedPos, Trust",
+                          "Pos": {
+                            "X": 377.35226,
+                            "Y": -38.952164,
+                            "Z": -79.73437
+                          },
+                          "UseCastPos": false
+                        },
+                        "Remark": "第二轮左",
+                        "DelayInSec": 9.0,
+                        "TimeInSec": 1.0
+                      },
+                      {
+                        "ResolverType": 6,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.ResolverTP2FixedPos, Trust",
+                          "Pos": {
+                            "X": 395.2782,
+                            "Y": -38.952164,
+                            "Z": -69.69923
+                          },
+                          "UseCastPos": false
+                        },
+                        "Remark": "第二轮左上",
+                        "DelayInSec": 10.5,
+                        "TimeInSec": 1.0
+                      },
+                      {
+                        "ResolverType": 6,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.ResolverTP2FixedPos, Trust",
+                          "Pos": {
+                            "X": 394.64297,
+                            "Y": -38.952164,
+                            "Z": -49.941177
+                          },
+                          "UseCastPos": false
+                        },
+                        "Remark": "第二轮右上",
+                        "DelayInSec": 12.0,
+                        "TimeInSec": 1.0
+                      },
+                      {
+                        "ResolverType": 6,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.ResolverTP2FixedPos, Trust",
+                          "Pos": {
+                            "X": 377.43817,
+                            "Y": -38.952164,
+                            "Z": -40.26562
+                          },
+                          "UseCastPos": false
+                        },
+                        "Remark": "第二轮右",
+                        "DelayInSec": 13.5,
+                        "TimeInSec": 1.0
+                      },
+                      {
+                        "ResolverType": 6,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.ResolverTP2FixedPos, Trust",
+                          "Pos": {
+                            "X": 360.85468,
+                            "Y": -38.952164,
+                            "Z": -50.219738
+                          },
+                          "UseCastPos": false
+                        },
+                        "Remark": "第二轮右下",
+                        "DelayInSec": 15.0,
+                        "TimeInSec": 1.0
+                      },
+                      {
+                        "ResolverType": 6,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.ResolverTP2FixedPos, Trust",
+                          "Pos": {
+                            "X": 360.7182,
+                            "Y": -38.952164,
+                            "Z": -69.27219
+                          },
+                          "UseCastPos": false
+                        },
+                        "Remark": "第二轮左下",
+                        "DelayInSec": 16.5,
+                        "TimeInSec": 1.0
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "eee999d6-fd1e-4877-b8ad-86fc9e4ce228",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 10,
+                    "Enable": false,
+                    "Remark": "妖异召唤"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 3524,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 9,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.RunningAroundCenter, Trust",
+                          "StartPos": {
+                            "SelectType": 0,
+                            "FixedPoint": {
+                              "X": 359.9023,
+                              "Y": -38.952164,
+                              "Z": -70.04089
+                            },
+                            "PointKey": null,
+                            "RelatedExDis": 0.0,
+                            "RelatedAngle": 0.0,
+                            "PresetGroups": [],
+                            "Args0": 0,
+                            "RecentTime": 1.0
+                          },
+                          "CenterPos": {
+                            "SelectType": 0,
+                            "FixedPoint": {
+                              "X": 377.627,
+                              "Y": -39.0,
+                              "Z": -59.773
+                            },
+                            "PointKey": null,
+                            "RelatedExDis": 0.0,
+                            "RelatedAngle": 0.0,
+                            "PresetGroups": [],
+                            "Args0": 0,
+                            "RecentTime": 1.0
+                          },
+                          "Distance": 20.0,
+                          "Angle": 500.0,
+                          "Speed": 45.0,
+                          "Reverse": false,
+                          "InSafeArea": false,
+                          "PMDangerRadius": 0.0
+                        },
+                        "Remark": "1",
+                        "DelayInSec": 2.0,
+                        "TimeInSec": 10.0
+                      },
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": true
+                        },
+                        "Remark": "2",
+                        "DelayInSec": 14.0,
+                        "TimeInSec": 4.5
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "eee999d6-fd1e-4877-b8ad-86fc9e4ce228",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 11,
+                    "Enable": true,
+                    "Remark": "妖异召唤"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 3780,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": false
+                        },
+                        "Remark": "",
+                        "DelayInSec": 3.3,
+                        "TimeInSec": 0.8
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "9b2567e3-d50b-4466-ba9b-cca79344b13f",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 12,
+                    "Enable": true,
+                    "Remark": "虚无火花"
+                  },
+                  {
+                    "$type": "Trust.DungeonController.SpellReaction.Trigger.TreeSpellResolver, Trust",
+                    "SpellId": 3529,
+                    "ResolverDatas": [
+                      {
+                        "ResolverType": 1,
+                        "ExData": {
+                          "$type": "Trust.DungeonController.SpellReaction.FollowNpcExData, Trust",
+                          "DontFollowTank": false
+                        },
+                        "Remark": "",
+                        "DelayInSec": 3.3,
+                        "TimeInSec": 0.8
+                      }
+                    ],
+                    "JobsLimit": 0,
+                    "DisplayName": "机制应对:监听技能",
+                    "GUID": "d757650b-ddbf-48ce-a9f7-63d0922fbd21",
+                    "Important": false,
+                    "Color": {
+                      "X": 1.0,
+                      "Y": 1.0,
+                      "Z": 0.4,
+                      "W": 1.0
+                    },
+                    "Id": 13,
+                    "Enable": true,
+                    "Remark": "魔法爆发"
+                  }
+                ],
+                "GUID": "30d277c5-82f2-415a-afdd-78ec1472b1c9",
+                "Important": true,
+                "Color": {
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 0.4,
+                  "W": 1.0
+                },
+                "Id": 4,
+                "Enable": true,
+                "Remark": "[并行选择]下的子节点同时执行,触发添加技能监听.任意一个监听被触发后，本次循环结束"
+              },
+              {
+                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
+                "DisplayName": "延迟[0.30]秒",
+                "Delay": 0.3,
+                "GUID": "9791c5ca-b0fb-4be5-94a4-d940921487a8",
+                "Important": false,
+                "Color": {
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 0.4,
+                  "W": 1.0
+                },
+                "Id": 14,
+                "Enable": true,
+                "Remark": ""
+              }
+            ],
+            "GUID": "e268c4d9-178d-47d6-818c-56d5e986afac",
+            "Important": false,
+            "Color": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 0.4,
+              "W": 1.0
+            },
+            "Id": 2,
+            "Enable": true,
+            "Remark": "循环处理（因为一般副本boss的技能都是循环的）"
+          }
+        ],
+        "GUID": "3aa55319-606b-4ad3-bfdc-2e3c09f0a4cc",
+        "Important": false,
+        "Color": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.4,
+          "W": 1.0
+        },
+        "Id": 1,
+        "Enable": true,
+        "Remark": ""
+      }
+    }
+  ],
+  "MonsterSpellNeedAvoidList": [
+    {
+      "SpellId": 4787,
+      "Remark": "飞翼斩"
+    },
+    {
+      "SpellId": 4768,
+      "Remark": "毒液"
+    },
+    {
+      "SpellId": 4809,
+      "Remark": "钢铁正义"
+    },
+    {
+      "SpellId": 513,
+      "Remark": "恐怖视线"
+    }
+  ],
+  "Remark": "T/D/H通用",
+  "TerritoryTypeId": 1109
+}
